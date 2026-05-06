@@ -29,4 +29,4 @@ Ce projet a été réalisé dans le cadre d’un apprentissage du développement
 
 #les liens 
 le lien de figma: https://www.figma.com/design/tD6ORPYfqFEtxl7zFOolhs/homepage?node-id=0-1&t=5qD7CihF1Rd1Ey8U-1
-le lien sur github : 
+le lien sur github :  https://fatima2207.github.io/site_Fatima_Elmouhib.github.io/
