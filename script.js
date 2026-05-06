@@ -3,7 +3,7 @@ const mockGamesData = [
   { name: "Fortnite", description: "Jeu de battle royale dynamique et compétitif", image: "images/fortnite (2).jpg" },
   { name: "Minecraft", description: "Jeu de construction et de survie", image: "images/minecraft.jpg" },
   { name: "FIFA", description: "Simulation de football réaliste", image: "images/fifa.jpg" },
-  { name: "Call of Duty", description: "Jeu de tir très populaire", image: "call.jpg" },
+  { name: "Call of Duty", description: "Jeu de tir très populaire", image: "images/call.jpg" },
   { name: "League of Legends", description: "Jeu compétitif stratégique", image: "images/league.jpg" }
 ];
 
